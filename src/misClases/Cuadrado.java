@@ -13,6 +13,4 @@ public class Cuadrado extends Rectangulo{
  public Cuadrado(double lado, String color, boolean relleno){
    super(lado,lado,color,relleno);
  }
- 
- 
 }
